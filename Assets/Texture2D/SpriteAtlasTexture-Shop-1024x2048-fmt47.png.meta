@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: f0de040a99822e747942602f7a641823
+timeCreated: 1628862297
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpriteAtlasTexture-Shop-1024x2048-fmt47_1
+  - first:
+      213: 21300002
+    second: SpriteAtlasTexture-Shop-1024x2048-fmt47_2
+  - first:
+      213: 21300004
+    second: SpriteAtlasTexture-Shop-1024x2048-fmt47_3
+  - first:
+      213: 21300006
+    second: SpriteAtlasTexture-Shop-1024x2048-fmt47_4
+  - first:
+      213: 21300008
+    second: SpriteAtlasTexture-Shop-1024x2048-fmt47_5
+  - first:
+      213: 21300010
+    second: SpriteAtlasTexture-Shop-1024x2048-fmt47_9
+  - first:
+      213: 21300012
+    second: SpriteAtlasTexture-Shop-1024x2048-fmt47_10
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Shop-1024x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -56}
+        - {x: -72, y: -26}
+        - {x: -72, y: 56}
+        - {x: 72, y: 56}
+        - {x: 72, y: -27}
+        - {x: 23, y: -56}
+      physicsShape:
+      - - {x: 45, y: -16}
+        - {x: 62, y: -3}
+        - {x: 66, y: 8}
+        - {x: 66, y: 24}
+        - {x: 65, y: 30}
+        - {x: 61, y: 37}
+        - {x: 45, y: 49}
+        - {x: 25, y: 49}
+        - {x: 5, y: 38}
+        - {x: -2, y: 32}
+        - {x: -15, y: 44}
+        - {x: -26, y: 48}
+        - {x: -46, y: 46}
+        - {x: -60, y: 35}
+        - {x: -64, y: 24}
+        - {x: -64, y: 9.999999}
+        - {x: -63, y: 2}
+        - {x: -59, y: -5}
+        - {x: -49, y: -13}
+        - {x: -38, y: -28}
+        - {x: -24, y: -45}
+        - {x: -15, y: -47}
+        - {x: -2, y: -47}
+        - {x: 6, y: -46}
+        - {x: 13, y: -42}
+        - {x: 24, y: -28}
+        - {x: 28, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76c583837c4c6fae57bf5688890eca
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Shop-1024x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1256
+        width: 132
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -48}
+        - {x: -66, y: -48}
+        - {x: -66, y: 17}
+        - {x: -38, y: 48}
+        - {x: 51, y: 48}
+        - {x: 66, y: 28}
+        - {x: 66, y: -29}
+      physicsShape:
+      - - {x: 58, y: 18}
+        - {x: 57, y: 21}
+        - {x: 42, y: 35}
+        - {x: 24, y: 41}
+        - {x: 1, y: 41}
+        - {x: -18, y: 37}
+        - {x: -34, y: 30}
+        - {x: -53, y: 14}
+        - {x: -58, y: 8}
+        - {x: -58, y: -23}
+        - {x: -53, y: -27}
+        - {x: -42, y: -39}
+        - {x: -9, y: -39}
+        - {x: 2, y: -25}
+        - {x: 47, y: -8}
+        - {x: 58, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126a909eb494ed98f8d768412d4b727
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Shop-1024x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 172
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -64}
+        - {x: -86, y: -64}
+        - {x: -86, y: 15}
+        - {x: -35, y: 64}
+        - {x: 77, y: 64}
+        - {x: 86, y: 54}
+        - {x: 86, y: -30}
+      physicsShape:
+      - - {x: 26, y: -56}
+        - {x: 46, y: -56}
+        - {x: 53, y: -55}
+        - {x: 60, y: -47}
+        - {x: 66, y: -33}
+        - {x: 72.99999, y: -1}
+        - {x: 79, y: 9}
+        - {x: 79, y: 24}
+        - {x: 71, y: 44}
+        - {x: 65, y: 54}
+        - {x: 42, y: 54}
+        - {x: 32, y: 60}
+        - {x: 5, y: 60}
+        - {x: -30, y: 50}
+        - {x: -44, y: 40}
+        - {x: -53, y: 32}
+        - {x: -69, y: 11}
+        - {x: -78, y: -4}
+        - {x: -81, y: -12}
+        - {x: -81, y: -28}
+        - {x: -76, y: -39}
+        - {x: -62, y: -51}
+        - {x: -40, y: -48}
+        - {x: -17, y: -56}
+        - {x: -7, y: -56}
+        - {x: 0, y: -54}
+        - {x: 7, y: -50}
+        - {x: 18, y: -51}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45805219d56e4cb2af8f97a9c07be6de
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Shop-1024x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1124
+        width: 144
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -64}
+        - {x: -72, y: -61}
+        - {x: -72, y: 19}
+        - {x: -36, y: 64}
+        - {x: 72, y: 64}
+        - {x: 72, y: -64}
+      physicsShape:
+      - - {x: 66.99999, y: 19}
+        - {x: 66.99999, y: 33}
+        - {x: 62, y: 50}
+        - {x: 51, y: 59}
+        - {x: 22, y: 59}
+        - {x: 2, y: 56}
+        - {x: -30, y: 38}
+        - {x: -54, y: 6}
+        - {x: -61, y: -7}
+        - {x: -63, y: -15}
+        - {x: -63, y: -35}
+        - {x: -52, y: -49}
+        - {x: -44, y: -51}
+        - {x: -33, y: -52}
+        - {x: -9.999999, y: -46}
+        - {x: -1, y: -52}
+        - {x: 6, y: -55}
+        - {x: 22, y: -55}
+        - {x: 39, y: -46}
+        - {x: 50, y: -1}
+        - {x: 62, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337b18ee52b42af9dfda810658328aa
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Shop-1024x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1124
+        width: 124
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -64}
+        - {x: -62, y: -60}
+        - {x: -62, y: 64}
+        - {x: 62, y: 64}
+        - {x: 62, y: -64}
+      physicsShape:
+      - - {x: 56, y: -4}
+        - {x: 56, y: 12}
+        - {x: 55, y: 20}
+        - {x: 46, y: 42}
+        - {x: 20, y: 58}
+        - {x: 14, y: 59}
+        - {x: -17, y: 59}
+        - {x: -37, y: 47}
+        - {x: -50, y: 34}
+        - {x: -56, y: 16}
+        - {x: -56, y: -12}
+        - {x: -49, y: -29}
+        - {x: -36, y: -44}
+        - {x: -22, y: -51}
+        - {x: -11, y: -55}
+        - {x: 14, y: -55}
+        - {x: 32, y: -47}
+        - {x: 49, y: -29}
+        - {x: 55, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afbabdf67674226b47f811a5f472e01
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Shop-1024x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 632
+        width: 824
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -411, y: -88}
+        - {x: -412, y: -78}
+        - {x: -412, y: 82}
+        - {x: -402, y: 88}
+        - {x: 411, y: 88}
+        - {x: 412, y: 79}
+        - {x: 412, y: -80}
+        - {x: 402, y: -88}
+      physicsShape:
+      - - {x: 397, y: 69}
+        - {x: 382, y: 79.99999}
+        - {x: -386, y: 79.99999}
+        - {x: -403, y: 64}
+        - {x: -403, y: -55}
+        - {x: -391, y: -71}
+        - {x: -381, y: -74}
+        - {x: 385, y: -74}
+        - {x: 401, y: -59}
+        - {x: 401, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e4bf8faa546d7be4e61f66141e076
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Shop-1024x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 452
+        width: 824
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 412, y: -88}
+        - {x: -412, y: -88}
+        - {x: -412, y: 78}
+        - {x: -399, y: 88}
+        - {x: 409, y: 88}
+        - {x: 412, y: 76}
+      physicsShape:
+      - - {x: 397, y: 66}
+        - {x: 382, y: 77}
+        - {x: -387, y: 77}
+        - {x: -403, y: 61}
+        - {x: -403, y: -56}
+        - {x: -391, y: -74}
+        - {x: -381, y: -77}
+        - {x: 375, y: -77}
+        - {x: 390, y: -72.99999}
+        - {x: 401, y: -57}
+        - {x: 401, y: 53}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5917b1f4e54f64a9109f2cd186c291
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
